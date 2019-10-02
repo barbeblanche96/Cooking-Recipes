@@ -1,0 +1,752 @@
+{
+  "best_of_cooking" : {
+    "french_recipes" : {
+      "list" : [
+          {
+            "id":1,
+            "name":"Salade Niçoise",
+            "img":"1.jpg",
+            "origin": "France",
+            "duration": "10 to 30",
+            "url" : "https://www.bbc.co.uk/food/recipes/saladenicoise_6572",
+            "ingredients": [
+                "450g/1lb fresh tuna or 4 x 175g/6oz tuna steaks, 2.5cm/1in thick",
+                "8 new potatoes, cooked and quartered lengthways",
+                "4 plum tomatoes, roughly chopped",
+                "115g/4oz extra fine French beans, topped, cooked and drained",
+                "4 little gem lettuce hearts, quartered lengthways",
+                "1 red onion, finely sliced",
+                "4 eggs, cooked for 6 minutes in boiling water from room temperature, halved",
+                "6 anchovy fillets cut lengthways into thin strips",
+                "16 pitted black olives in brine",
+                "8 basil leaves, ripped",
+                "105ml/7tbsp extra virgin olive oil",
+                "3 tbsp aged red wine vinegar",
+                "2 tbsp freshly chopped parsley",
+                "2 tbsp freshly snipped chives",
+                "2 garlic cloves, peeled and finely chopped",
+                "1 tsp salt",
+                "1 tsp ground black pepper"
+              ],
+            "methods" : [
+              "To make the dressing or marinade whisk together the red wine vinegar, olive oil, parsley, chives, garlic, salt and pepper.",
+              "Place the tuna in a shallow dish and pour over half of the dressing. Cover and chill for 1-2 hours to allow the fish to marinate. Toss in the marinade from time to time.",
+              "Heat a ridged griddle pan on the hob or a hot barbecue for 5 minutes. Remove the tuna from the marinade. Cook the tuna steaks for 2-3 minutes on each side, depending on how rare you like your fish.",
+              "Lay the lettuce leaves onto a large plate and add the lettuce, onion, tomatoes, potato, tuna, beans and anchovies. Drizzle over the remaining dressing then finish by adding the eggs, olives and ripped basil leaves."
+              ]
+          },
+          {
+            "id":2,
+            "name":"Coq au Vin",
+            "img":"2.jpg",
+            "origin": "France",
+            "duration": "100 to 120",
+            "url" : "https://www.marthastewart.com/340340/coq-au-vin",
+            "ingredients": [
+                "4 chicken thighs",
+                "4 chicken legs",
+                "2 cups full-bodied red wine, such as Cabernet Sauvignon",
+                "Coarse salt and freshly ground pepper",
+                "8 ounces slab bacon, cut into 1/2-inch dice",
+                "3 tablespoons extra-virgin olive oil, if needed",
+                "1 medium onion, finely chopped",
+                "8 garlic cloves, thinly sliced",
+                "10 white pearl onions, peeled",
+                "1/2 pound small cremini mushrooms",
+                "3 tablespoons all-purpose flour",
+                "1 tablespoon tomato paste",
+                "2 tablespoons Cognac",
+                "1 chicken liver, coarsely chopped",
+                "2 bay leaves",
+                "5 fresh thyme sprigs"
+              ],
+            "methods" : [
+              "Place chicken in a large bowl, and add wine. Cover, and refrigerate overnight.",
+              "Preheat oven to 325 degrees. Remove chicken from wine, and pat dry; reserve wine. Season chicken with salt and pepper.",
+              "Cook bacon in a Dutch oven over medium-low heat until crisp, about 20 minutes. Transfer bacon to a plate, leaving drippings in pot. (You should have 3 tablespoons; you may need to add oil.)",
+              "Raise heat to medium-high. Working in batches, cook chicken, flipping once, until golden, 4 to 5 minutes per side. Transfer to a plate. Add onion to pot, and cook 4 to 5 minutes. Add garlic, and cook 2 minutes. Add pearl onions and mushrooms, and cook until brown, 3 to 4 minutes. Stir in flour and tomato paste, and cook 2 minutes. Add Cognac, and cook, stirring, 1 minute.",
+              "Return bacon and chicken to pot. Pour in reserved wine, and add chicken liver and herbs. Bring to a simmer. Cover, and place in oven until chicken has cooked through and vegetables are tender, 45 minutes to 1 hour. Discard herbs, and skim fat from surface."
+              ]
+          },
+          {
+            "id":3,
+            "name":"Raymond Blanc's cassoulet",
+            "img":"3.jpg",
+            "origin": "France",
+            "duration": "300",
+            "url" : "https://www.bbcgoodfood.com/recipes/1400/raymond-blancs-cassoulet",
+            "ingredients": [
+                "140g pork rind",
+                "140g smoked streaky bacon",
+                "300g garlic sausage",
+                "600g dried haricot bean, soaked overnight in 3 times their volume of water",
+                "1 celery stick",
+                "1 small onion, preferably a white skinned mild one",
+                "1 large carrot",
+                "6 garlic cloves",
+                "2 ripe plum tomatoes",
+                "25g goose fat or 2 tbsp olive oil",
+                "1 bouquet garni",
+                "8 pinches of sea salt",
+                "2 pinches of freshly ground black pepper",
+                "1 clove, lightly crushed",
+                "2 tsp lemon juice",
+                "4 confit ducks legs",
+                "60g goose fat or 2 tbsp olive oil",
+                "40g dried breadcrumb",
+                "1 garlic clove, finely chopped",
+                "a handful of fresh flatleaf parsley, coarsely chopped"
+              ],
+            "methods" : [
+              "To cut the meats, roll up the pork rind like a Swiss roll. With the seam underneath, use a very sharp knife to cut the roll across into thin slices, then chop the rolled-up slices across into dice. Chop the bacon into small cubes (lardons). Cut the garlic sausage into 1cm thick slices.",
+              "Drain the soaked beans and discard the soaking water. Tip the beans into a large saucepan, add the diced pork rind and lardons and cover with fresh cold water. Bring to the boil and blanch for 15-20 minutes. Drain the beans, rind and lardons into a colander, and discard the cooking water.",
+              "Roughly chop the celery, onion and carrot. Peel the garlic cloves but leave them whole. Cut each tomato into eight wedges. (You never see tomatoes in a traditional cassoulet, but chef Raymond Blanc likes them for their colour and sweetness, so he puts a couple in.) Preheat the oven to 120C/fan 100C. (If cooking in a gas oven, use mark 2.)",
+              "Heat the goose fat or olive oil in a 26cm flameproof casserole or deep overproof sauté pan over a low heat and sweat the celery, onion, carrot and garlic for 5 minutes. Add the tomatoes and bouquet garni and cook slowly to get a sugary caramelisation (about 5 minutes). Add the sausage, beans, pork rind and lardons and pour in 1.2 litres/2 pints water. Bring to the boil, skim off the scum, then add the salt, pepper, clove and lemon juice.",
+              "Transfer the casserole to the oven and cook, uncovered, for 2 hours, stirring every hour. At the end of this time, the beans will be soft and creamy in texture and the juices should have thickened. You may need to cook it for longer than 2 hours (say up to 2½ hours) to get to this stage – it depends",
+              "Remove the cassoulet from the oven. Bury the duck legs in the beans and sprinkle over the goose fat or olive oil, breadcrumbs and garlic. Return to the oven and cook for a further 2 hours. Serve the cassoulet in bowls, sprinkled with chopped parsley."
+              ]
+          },
+          {
+            "id":4,
+            "name":"Simple Chocolate Soufflé",
+            "img":"4.jpg",
+            "origin": "France",
+            "duration": "35 to 40",
+            "url" : "https://www.rachaelray.com/2014/02/21/chocolate-souffle/",
+            "ingredients": [
+                "2 tablespoons butter, plus additional to coat the baking dish",
+                "1/3 cup sugar, plus additional to coat the baking dish",
+                "1 1/3 cups (8 ounces) chopped chocolate or chocolate chips (the higher quality, the better)",
+                "6 eggs, room temperature, separated",
+                "1 teaspoon vanilla",
+                "Pinch of salt plus 1/2 teaspoon salt",
+                "1/4 teaspoon cream of tartar",
+                "Powdered sugar, whipped cream or ice cream, for serving (optional)"
+              ],
+            "methods" : [
+              "Preheat oven to 375  F. Butter and then add a layer of sugar to a 1 1/2 quart soufflé/baking dish.",
+              "Melt the butter and chocolate in a heat-proof bowl (either in the microwave or over a saucepan of simmering water). Whisk in the egg yolks, vanilla, and pinch of salt. Set aside.",
+              "Beat the 6 egg whites until foamy. Add the 1/2 teaspoon of salt and cream of tartar. Continue beating to soft peak stage and slowly add the sugar. Then, beat to stiff peaks stage.",
+              "Fold the egg whites into the chocolate base mixture by spooning in a small dollop of egg whites, stirring to combine. Then add the rest of the egg whites, folding slowly and carefully until combined.",
+              "Transfer the mixture to the prepared dish and bake for 30 to 32 minutes. This is important: Do not peek while the soufflé is baking!",
+              "The soufflé will be puffed up and appear somewhat moist in the cracks when you remove it from the oven. Then, it will quickly deflate.",
+              "Serve immediately with powdered sugar and whipped or ice cream, if you wish. Store your leftovers in the fridge (I like the soufflé cold the next day, too!)."
+              ]
+          },
+          {
+            "id":5,
+            "name":"Raymond Blanc’s tarte tatin",
+            "img":"5.jpg",
+            "origin": "France",
+            "duration": "130 to 135",
+            "url" : "https://www.deliciousmagazine.co.uk/recipes/raymond-blancs-tarte-tatin/",
+            "ingredients": [
+                "900g (around 6) Braeburn apples, peeled, cored and cut into quarters (you could also use Cox’s Orange Pippin or Adam’s Pearmain)",
+                "100g caster sugar",
+                "60g unsalted butter, diced",
+                "30g unsalted butter, melted",
+                "300g all-butter puff pastry, rolled into a 24cm round (3mm thick), lightly pricked with a fork"
+              ],
+            "methods" : [
+              "Pre-heat your oven to 180°C/160°C/gas 6.",
+              "Put the tarte tatin dish on the hob, and over a medium heat cook the sugar and diced butter to a brown caramel. The Emile Henry dish is ideal for making sure the caramel stays dark but doesn’t burn.",
+              "Arrange the apple quarters very tight, around the edges first, with the core facing up and towards the centre, then fill in the middle part of the mould the same way, press with your hands gently to ensure there are no gaps, and brush with melted butter.",
+              "Cook in the preheated oven for 30 minutes.",
+              "Remove from the oven and place the disc of puff pastry on top, tuck in the edges and, with a knife, prick a few holes in the top to allow some of the steam to escape during cooking.",
+              "Cook in the oven for a further 40 – 45 minutes until the puff pastry is golden brown and crisp.",
+              "Allow to cool at room temperature for about 1 hour before de-moulding, apple-side up, on to the serving platter."
+              ]
+          }
+      ]
+    },
+    
+    "south_africa_recipes" : {
+      "list" : [
+          {
+            "id":6,
+            "name":"Malva Pudding",
+            "img":"6.jpg",
+            "origin":"South Africa",
+            "duration": "45 to 60",
+            "url" : "https://www.ilovecooking.co.za/recipes/43/590/bakingsweettreats_43/malva-pudding",
+            "ingredients": [
+                "250 ml castor sugar",
+                "30 ml very soft butter",
+                "15 ml apricot jam",
+                "1 large egg",
+                "250 ml cake flour",
+                "5 ml baking powder",
+                "generous pinch of salt",
+                "250 ml milk",
+                "15 ml brown vinegar",
+                "5 ml bicarbonate of soda",
+                "125 ml butter",
+                "180 ml sugar",
+                "325 ml thick cream",
+                "125 ml water",
+                "15 ml vanilla essence"
+              ],
+            "methods" : [
+              "For the pudding, in a large bowl, thoroughly whisk together the sugar, butter, jam and egg.",
+              "In another bowl, sift together the flour, baking powder and salt",
+              "Now whisk a third of the milk into the sugar mixture followed by a third of the dry ingredients. Whisk well then add another third of the milk followed by another third of the dry ingredients. Whisk well then add the last of the milk, followed by the last of the dry ingredients. Whisk well to ensure there are no lumps.",
+              "Finally, mix the vinegar and bicarbonate together and stir into the mixture then transfer it to an ovenproof serving dish of about 2 litre-capacity.",
+              "Bake in the oven preheated to 190°C for 45 minutes until a skewer inserted in the centre of the pudding comes out clean.",
+              "Meanwhile, prepare the sauce. Place all the sauce ingredients in a small saucepan and heat over medium heat.",
+              "Remove the pudding from the oven and then slowly pour the hot sauce over it. It may look like the sauce is way too much, but if you pour it over slowly and in small amounts and then set it aside, it will soon be magically absorbed.",
+              "Serve the pudding warm with ice-cream or cream or even some homemade caramel sauce if you feel like some OTT abundance."
+              ]
+          },
+          {
+            "id":7,
+            "name":"Traditional South African bobotie recipe",
+            "img":"7.jpg",
+            "origin":"South Africa",
+            "duration": "60 to 80",
+            "url" : "https://www.getaway.co.za/food/recipes-food/traditional-south-african-bobotie-recipe/",
+            "ingredients": [
+                "1 fairly thick slice crustless bread (white or brown)",
+                "375 ml milk",
+                "25 ml oil",
+                "10ml butter",
+                "2 onions, sliced",
+                "2 cloves garlic, crushed",
+                "25 ml curry powder",
+                "10ml salt",
+                "25ml chutney",
+                "15ml smooth apricot jam",
+                "15ml Worcester sauce",
+                "5ml turmeric",
+                "25ml brown vinegar",
+                "1 kg raw mince",
+                "100 ml sultanas (don’t replace with raisins – they are too sweet; sultanas are much better for this recipe)",
+                "3 eggs",
+                "pinch each salt and turmeric",
+                "bay leaves"
+              ],
+            "methods" : [
+              "Soak bread in milk. Heat oil and butter in large pan and fry onions and garlic.",
+              "When onions are soft, add curry powder, salt, chutney, jam, Worcester sauce, turmeric and vinegar and mix well.",
+              "Drain and mash bread and reserve milk. Add bread to pan together with mince and sultanas.",
+              "Cook over low heat, stirring, and when meat loses its pinkness, remove from stove. Add 1 beaten egg, mix well, then spoon into a greased, 28 x 16 cm baking dish and level the top.",
+              "Beat remaining eggs with reserved milk (you should have 300ml, or a little more) and the salt and turmeric.",
+              "Pour over meat mixture and put a few bay leaves on top. Stand dish in a larger pan of water (this is important to prevent drying out) and bake, uncovered, at 180 degrees celsius for 1 hour or until set.",
+              "Serve with rice, coconut, chutney, nuts and bananas."
+              ]
+          },
+          {
+            "id":8,
+            "name":"Cape Malay chicken curry recipe",
+            "img":"8.jpg",
+            "origin":"South Africa",
+            "duration": "5 to 10",
+            "url" : "https://www.getaway.co.za/food/cape-malay-chicken-curry-recipe/",
+            "ingredients": [
+                "50ml vegetable oil",
+                "2 medium-sized onions, chopped",
+                "1 kg chicken, skinned and cut into portions",
+                "15 ml turmeric",
+                "15 ml ground cumin",
+                "10 ml ground coriander",
+                "10 ml fennel",
+                "15 ml red masala (available at spice shops)",
+                "30 ml garlic and ginger paste",
+                "1 medium tomato, chopped finely",
+                "4 potatoes, peeled and cut into quarters",
+                "6 to 7 fresh curry leaves (available at spice shops)",
+                "6 to 7 sprigs of fresh coriander",
+                "Salt"
+              ],
+            "methods" : [
+              "Heat a little oil in a pot, add onions and sauté until browned. Add chicken and stir well, and then add the spices, garlic and ginger paste, a pinch of salt and the chopped tomato. Pour in 250 ml of water.",
+              "Cook, then stir for five minutes, and then cover the pot with a lid. Add the potatoes, another 250 ml of water, then cover and simmer on a low heat until the potatoes are soft.",
+              "Just before serving add the curry leaves and coriander and stir gently. Serve with rice or homemade rotis."
+              ]
+          },
+          {
+            "id":9,
+            "name":"Tangy tomato-based chakalaka",
+            "img":"9.jpg",
+            "origin":"South Africa",
+            "duration": "10 to 15",
+            "url" : "https://www.timeslive.co.za/sunday-times/lifestyle/food/2015-09-23-traditional-tangy-tomato-based-chakalaka/",
+            "ingredients": [
+                "45ml (3 tbsp) oil",
+                "1 onion, chopped",
+                "1 carrot, grated",
+                "2 hot chillies, chopped",
+                "1 garlic clove, finely chopped",
+                "15ml-30ml (1-2 tbsp) curry powder, depending on your taste",
+                "3 tomatoes, grated",
+                "1 x 420g can baked beans in tomato sauce",
+                "Salt and pepper, to taste"
+              ],
+            "methods" : [
+              "Heat the oil in a large saucepan and fry the onion, carrot, chillies, garlic and curry powder for about 5 minutes or until onion is soft, stirring frequently.",
+              "Stir in the tomatoes and bring to the boil. Reduce heat and simmer for about 5 minutes.",
+              "Stir in the baked beans, season and stir to heat through.",
+              "Serve hot or cold."
+              ]
+          },
+          {
+            "id":10,
+            "name":"South African Melktert (Milk Tart)",
+            "img":"10.jpg",
+            "origin":"South Africa",
+            "duration": "70",
+            "url" : "https://www.allrecipes.com/recipe/80160/south-african-melktert-milk-tart/",
+            "ingredients": [
+                "3 tablespoons butter, melted",
+                "1 cup white sugar",
+                "3 egg yolks",
+                "1 cup cake flour",
+                "1 teaspoon baking powder",
+                "1/4 teaspoon salt",
+                "1 teaspoon vanilla extract",
+                "4 cups milk",
+                "3 egg white",
+                "1 tablespoon cinnamon sugar"
+              ],
+            "methods" : [
+              "Preheat the oven to 375 degrees F (190 degrees C). Coat a 9 inch deep dish pie plate with vegetable oil cooking spray.",
+              "In a large bowl, mix together the butter and sugar until smooth. Add the egg yolks and beat until light and fluffy. Sift in the cake flour, baking powder and salt, and stir until well blended. Mix in the vanilla and milk. In a separate bowl, whip the egg whites to stiff peaks using an electric mixer. Fold into the batter. Pour into the prepared pie plate, and sprinkle cinnamon sugar over the top.",
+              "Bake for 25 minutes in the preheated oven, then reduce the temperature to 325 degrees F (165 degrees C). Continue to bake for 25 to 30 minutes, or until the center is set when you gently jiggle the pie. Serve hot or cold."
+              ]
+          }
+      ]
+    },
+    
+    "chinese_recipes" : {
+      "list" : [
+          {
+            "id":11,
+            "name":"Yangzhou Fried Rice",
+            "img":"11.jpg",
+            "origin":"China",
+            "duration": "40",
+            "url" : "https://www.cookingchanneltv.com/recipes/ching-he-huang/yangzhou-fried-rice-1961585",
+            "ingredients": [
+                "1 small handful dried shrimp, optional",
+                "2 tablespoons ketchup",
+                "1 tablespoon Sriracha chili sauce",
+                "2 tablespoons peanut oil",
+                "3 eggs, lightly beaten",
+                "1 tablespoon peeled and grated ginger",
+                "1 medium carrot, cut in 1/4-inch dice",
+                "4 ounces cooked Chinese pork (char siu) or ham, cut in 1/4-inch dice",
+                "3 fresh shiitake mushrooms, stemmed and diced",
+                "1 cup frozen peas",
+                "3 cups cooked jasmine rice, a day old",
+                "1 to 2 tablespoons light soy sauce",
+                "Sea salt and freshly ground white pepper",
+                "1 teaspoon toasted sesame oil",
+                "1 to 2 green onions, sliced on a diagonal, for garnish"
+              ],
+            "methods" : [
+              "If desired, in a small bowl, soak the dried shrimp in hot water for 20 minutes, then drain and set aside.",
+              "For the spicy ketchup sauce, if using: In a small bowl, combine the ketchup and chili sauce and set aside.",
+              "For the fried rice: Heat a wok over high heat and add 1 tablespoon peanut oil. Add the eggs and scramble, then set aside on a plate.",
+              "Add the remaining 1 tablespoon peanut oil to the wok. Add the ginger and stir-fry for less than 1 minute. Then add the carrots and stir-fry for 1 minute more. Add the pork, the soaked dried shrimp if using, and mushrooms and cook for 2 minutes. Then add the peas and cooked rice and toss together. Add the cooked egg back into the wok. Season the mixture with the light soy sauce, salt and pepper. At the very end add the sesame oil and spicy ketchup sauce if using. Check the seasoning and adjust to taste with salt and pepper. Garnish with green onions and serve immediately."
+              ]
+          },
+          {
+            "id":12,
+            "name":"Peking Duck",
+            "img":"12.jpg",
+            "origin":"China",
+            "duration": "590",
+            "url" : "https://www.cookingchanneltv.com/recipes/ching-he-huang/peking-duck-2047034",
+            "ingredients": [
+                "One 5 to 6-pound whole duck",
+                "Sea salt",
+                "Freshly ground white pepper",
+                "6 tablespoons honey",
+                "4 tablespoons Chinese five-spice powder",
+                "2 tablespoons dark soy sauce",
+                "2 tablespoons brown sugar",
+                "1 tablespoon cornstarch",
+                "6 tablespoons hoisin sauce",
+                "6 tablespoons superfine sugar",
+                "2 tablespoons sesame oil",
+                "1 tablespoon dark soy sauce",
+                "1 package Chinese/Mandarin-style pancakes, to serve",
+                "3 scallions, sliced into long thin strips, for garnish",
+                "1 cucumber, cored and sliced into long thin strips, for garnish"
+              ],
+            "methods" : [
+              "For the duck: Prick the duck all over with a small knife or fork. Carefully pour hot water over the duck to rinse. Discard the hot water. Place the duck on a rack in a roasting pan and dry all over by patting it with paper towels. Sprinkle the duck with salt and pepper and leave it in the roasting pan until ready to cook.",
+              "In a small bowl, mix together the honey, 6 tablespoons water, five-spice, soy sauce and brown sugar. Brush the duck all over, inside and out. Let dry for about 10 minutes and then brush again. Repeat this process until you have used all but 4 to 5 tablespoons of the glaze (reserve this glaze). Ideally, let the glaze marinate on the duck overnight, leaving it uncovered in the fridge.",
+              "Preheat the oven to 350 degrees F. Place the duck in the oven and cook for 45 minutes. Flip the duck over, baste with the reserved glaze and cook until the skin is crisp and golden brown, another 45 minutes. Make sure you check halfway through that it is not getting too dark. If it is getting too dark before half the cook time is up, turn your heat down and lower the rack in the oven. When the duck is cooked, remove from the oven and let rest while you make your sauce.",
+              "For the sauce: In a small bowl, mix the cornstarch with 1 tablespoon cold water and set aside. Next, heat a pan or wok over medium heat and add the hoisin, sugar, sesame oil and soy sauce. When the sauce starts to bubble slightly, add the cornstarch mixture and stir well to thicken. Set aside and let cool. Carve and slice some duck. Place a teaspoon of the sauce in the center of each pancake, add a couple slices of duck, garnish with the scallions and cucumbers and serve immediately."
+              ]
+          },
+          {
+            "id":13,
+            "name":"Beef with Broccoli",
+            "img":"13.jpg",
+            "origin":"China",
+            "duration": "25",
+            "url" : "https://www.cookingchanneltv.com/recipes/ching-he-huang/beef-with-broccoli-1961740",
+            "ingredients": [
+                "1 tablespoon peanut oil",
+                "2 cloves garlic, finely chopped",
+                "1 tablespoon Sichuan peppercorns",
+                "1 pound beef sirloin, sliced to 1/2-inch-thick strips",
+                "4 ounces tender baby broccoli florets, blanched (about 1 1/2 cups)",
+                "1 tablespoon Shaohsing rice wine or dry sherry",
+                "1 to 2 teaspoons honey",
+                "1 to 2 tablespoons light soy",
+                "1 teaspoon dark soy",
+                "1/4 cup hot vegetable stock",
+                "1 heaping tablespoon cornstarch, blended with 2 tablespoons cold water"
+              ],
+            "methods" : [
+              "Heat a wok over high heat and add the oil. When the oil begins to smoke, add the garlic and Sichuan peppercorns and stir-fry quickly for a few seconds.",
+              "Add the beef and let it settle for a moment. As it starts to turn brown, after a minute or so, add the broccoli florets and the rice wine. Stir-fry for a few seconds.",
+              "Season the beef and broccoli with the honey, light soy and dark soy.",
+              "Add in the vegetable stock and bring the mixture to a boil. Stir in the cornstarch and water mixture and cook to thicken, about 1 minute. Serve immediately."
+              ]
+          },
+          {
+            "id":14,
+            "name":"Mapo Doufu",
+            "img":"14.jpg",
+            "origin":"China",
+            "duration": "30",
+            "url" : "https://www.cookingchanneltv.com/recipes/ching-he-huang/mapo-doufu-1962588",
+            "ingredients": [
+                "8 ounces mung bean noodles or rice noodles",
+                "1 1/2 teaspoons toasted sesame oil",
+                "3/4 cup beef stock",
+                "1 1/2 tablespoons Sichuan peppercorns",
+                "1 tablespoon peanut oil",
+                "2 cloves garlic, crushed and finely chopped",
+                "1 tablespoon peeled and grated fresh ginger",
+                "1 red Fresno chile, seeded and finely diced",
+                "12 ounce ground pork",
+                "1 to 2 tablespoons chili bean sauce",
+                "1 tablespoon Shaohsing rice wine or dry sherry",
+                "1 pound firm fresh tofu, cut into 1-inch chunks",
+                "1 to 2 tablespoons light soy sauce",
+                "1 to 2 tablespoons black rice vinegar or balsamic vinegar",
+                "Sea salt",
+                "Ground white pepper",
+                "1 tablespoon cornstarch",
+                "2 large scallions, sliced"
+              ],
+            "methods" : [
+              "Place the noodles in a large bowl and cover with boiling water. Let soak until softened, 10 to 15 minutes. Drain and toss with 1/2 teaspoon toasted sesame oil to prevent sticking.",
+              "In a small saucepan or wok, heat the beef stock to a simmer and then keep warm on low heat.",
+              "In a small frying pan set over medium heat, dry-toast the peppercorns until fragrant. Remove from the heat and crush in a mortar and pestle, place in a plastic bag and crush with a rolling pin or use a spice grinder.",
+              "Heat a wok over high heat and add the peanut oil. Add the garlic, ginger, chili and 1 tablespoon of the ground peppercorns and stir-fry a few seconds. Add the pork and chili bean sauce and continue stir-frying. As the pork browns, add the rice wine. When the pork has browned, add the tofu and mix gently. Season the stir-fry with soy sauce, black rice vinegar, the remaining 1 teaspoon sesame oil, salt and ground white pepper.",
+              "Add the hot beef stock to the pork and tofu and bring to a boil. In a small bowl, stir together the cornstarch and 2 tablespoons water, then stir into the sauce to thicken. Stir in the scallions and remove from the heat. Serve over the noodles and sprinkle with the remaining peppercorns."
+              ]
+          },
+          {
+            "id":15,
+            "name":"Chicken Chow Mein",
+            "img":"15.jpg",
+            "origin":"China",
+            "duration": "30",
+            "url" : "https://www.cookingchanneltv.com/recipes/ching-he-huang/chicken-chow-mein-2040489",
+            "ingredients": [
+                "5 ounces dried yellow Shi wheat flour noodles* or medium egg noodles",
+                "1 teaspoon sesame oil, plus more as needed",
+                "11 ounces skinless chicken breasts, sliced into strips",
+                "Dash dark soy sauce",
+                "1 teaspoon five-spice powder",
+                "1 teaspoon chile sauce, optional",
+                "1 tablespoon cornstarch",
+                "2 tablespoons groundnut oil (peanut)",
+                "1 red bell pepper, seeded and finely sliced",
+                "5 ounces bean sprouts",
+                "1 large spring onion (green), sliced lengthwise",
+                "2 tablespoons light soy sauce",
+                "Freshly ground black pepper, finely ground"
+              ],
+            "methods" : [
+              "Cook the noodles for 3 minutes in a pan of boiling water until al dente, or as per the package instructions. Drain, then run them under cold running water, and drain again. Drizzle with a few splashes of sesame oil, and toss through to prevent them from sticking.",
+              "Season the chicken with a splash of dark soy sauce, the five-spice powder, and chile sauce, if using. Mix well. Coat the chicken breasts lightly with the cornstarch.",
+              "Heat a wok over a high heat, add the groundnut or peanut oil, and heat until smoking. Then, add the chicken, and stir-fry for 2 to 3 minutes, or until cooked through.",
+              "Add the red bell pepper, and stir-fry for 1 minute, then add the bean sprouts and green onion and stir-fry for less than 1 minute. Add the cooked noodles, and season with the light soy sauce, 1 teaspoon toasted sesame oil, and black pepper, to taste. Stir well and serve immediately."
+              ]
+          }
+      ]
+    },
+    
+    "usa_recipes" : {
+      "list" : [
+          {
+            "id":16,
+            "name":"Buffalo chicken",
+            "img":"16.jpg",
+            "origin":"USA",
+            "duration": "65",
+            "url" : "https://www.bbcgoodfood.com/recipes/buffalo-chicken",
+            "ingredients": [
+                "1 1/2 kg chicken thighs and drumsticks",
+                "180g sea salt flakes",
+                "90g soft dark brown sugar",
+                "2 tbsp chilli flakes",
+                "2 tbsp sweet smoked paprika",
+                "1 tbsp ground cumin",
+                "1 tbsp sea salt flakes",
+                "1 tbsp dark brown sugar",
+                "75g butter",
+                "125ml hot chilli sauce",
+                "1 tbsp maple syrup"
+              ],
+            "methods" : [
+              "Put the chicken in a big bowl. In a pan, heat 1 litre of water with the salt, brown sugar and chilli flakes. When it’s dissolved, add 2 litres of cold water and pour over the chicken. Put in the fridge and leave for at least 2 hrs, but ideally a day or two. When you’re ready to cook, take the chicken out of the water and pat dry all over with kitchen paper.",
+              "Heat oven to 180C/160C fan/gas 4. Put the smoked paprika, ground cumin, sea salt and dark brown sugar on a baking tray. Mix them together, then roll the dried chicken pieces in the spices, making sure everything is covered. Roast the chicken for 1 hr or until crispy and caramelised.",
+              "Meanwhile, for the sauce, gently melt the butter in a small pan with the hot sauce and maple syrup. When the chicken pieces come out of the oven, drizzle this sauce all over them and give them a shake. Serve with a side of creamed corn."
+              ]
+          },
+          {
+            "id":17,
+            "name":"Fully loaded Cajun chicken burgers",
+            "img":"17.jpg",
+            "origin":"USA",
+            "duration": "15 to 20",
+            "url" : "https://www.bbcgoodfood.com/recipes/9092/fully-loaded-cajun-chicken-burgers",
+            "ingredients": [
+                "4 skinless chicken breasts",
+                "2 tbsp olive oil",
+                "4 rashers smoked bacon",
+                "2 avocados",
+                "4 ciabatta rolls, split",
+                "4 thin slices of your favourite cheese",
+                "4 small handfuls baby spinach leaves",
+                "mayonnaise, to serve (optional)",
+                "1 tbsp ground cumin",
+                "1 tbsp ground coriander",
+                "1 tbsp paprika"
+              ],
+            "methods" : [
+              "Mix the seasoning ingredients together with a good grinding of black pepper and a sprinkling of salt, then set aside in a large dish. Heat grill to high. On a board, flatten out the chicken slightly, then drizzle half the oil over and toss in the seasoning until completely coated. Heat the remaining oil in a large frying pan, sizzle the chicken for 5 mins on each side until firm, push to one side of the pan, then fry the bacon for a few mins until cooked.",
+              "While the chicken is cooking, halve, stone, peel and slice the avocados, and toast the cut sides of the buns. Cover the tops of the buns with cheese, then grill until melted.",
+              "To assemble the burgers, spread the buns with mayonnaise if you want, top with a handful of spinach, then a rasher of bacon. To keep the avocado in place, slice the chicken, then alternate between a slice of chicken and avocado. Top with the bun, press down lightly and serve."
+              ]
+          },
+          {
+            "id":18,
+            "name":"Spicy pies with sweet potato mash",
+            "img":"18.jpg",
+            "origin":"USA",
+            "duration": "40",
+            "url" : "https://www.bbcgoodfood.com/recipes/spicy-pies-sweet-potato-mash",
+            "ingredients": [
+                "1kg sweet potatoes, peeled and cut into large chunks",
+                "2 tbsp milk",
+                "50g mature cheddar, finely grated",
+                "1 tbsp rapeseed oil",
+                "2 onions, halved and sliced",
+                "500g lean beef mince (5% fat)",
+                "1 tbsp smoked paprika, plus extra for sprinkling",
+                "1 tbsp ground cumin",
+                "1 tbsp ground coriander",
+                "1 tbsp mild chilli powder",
+                "1 tbsp vegetable bouillon powder",
+                "400g can black-eyed beans",
+                "400g can chopped tomatoes",
+                "1 large green pepper, diced",
+                "326g can of sweetcorn in water",
+                "broccoli or salad, to serve (optional)"
+              ],
+            "methods" : [
+              "Boil the sweet potato for 15 mins or until tender, taking care not to overcook.",
+              "Meanwhile, heat the oil in a large, deep, non-stick frying pan. Add the onions, cover and cook for 8 mins or until softened and starting to colour. Stir in the mince, breaking it up with a wooden spoon until browned. Stir in all the spices and bouillon, then add the beans with their liquid, the tomatoes and pepper. Cover and simmer for 20 mins. Stir in the corn with its liquid, season and take off the heat.",
+              "While the mince cooks, mash the potatoes with the milk to make a stiff mash. Spoon the mince into six individual pie dishes, top each with some mash, then sprinkle over the cheese and a little paprika.",
+              "The pies can now be frozen. If eating straight away, put under a hot grill until piping hot and the cheese is melted. To cook from frozen, thaw completely, then reheat in the oven on a baking tray at 180C/160C fan/ gas 4 for 30-40 mins or until piping hot throughout. Serve with broccoli or a salad, if you like, which will take you to all 5 of your 5-a-day."
+              ]
+          },
+          {
+            "id":19,
+            "name":"Cheesesteak hot dogs",
+            "img":"19.jpg",
+            "origin":"USA",
+            "duration": "15",
+            "url" : "https://www.bbcgoodfood.com/recipes/cheesesteak-hotdogs",
+            "ingredients": [
+                "1 large rib-eye steak (approx 300g)",
+                "3 tbsp olive oil",
+                "2 garlic cloves, crushed but whole",
+                "2 green peppers, sliced",
+                "4 hot dog buns",
+                "60g smoked cheddar, sliced, yellow mustard (we used French’s), to serve",
+                "2 tbsp crispy onions"
+              ],
+            "methods" : [
+              "Season the steak well, then fry it with the garlic in hot oil for 4-5 mins on each side for medium rare. Put the steak on a board to rest and discard the garlic.",
+              "Add the peppers and a pinch of salt to the pan with extra oil if needed and cook for 3-4 mins.",
+              "Heat grill to high. Thinly slice the steak. Fill each bun with a quarter of the steak, peppers and cheese slices. Grill for 2-3 mins, drizzle with mustard and top with onions."
+              ]
+          },
+          {
+            "id":20,
+            "name":"American pancakes",
+            "img":"20.jpg",
+            "origin":"USA",
+            "duration": "25 to 30",
+            "url" : "https://www.bbcgoodfood.com/recipes/american-pancakes",
+            "ingredients": [
+                "200g self-raising flour",
+                "1 1/2 tsp baking powder",
+                "1 tbsp golden caster sugar",
+                "3 large eggs",
+                "25g melted butter, plus extra for cooking",
+                "200ml milk",
+                "vegetable oil, for cooking",
+                "maple syrup",
+                "toppings of your choice, such as cooked bacon, chocolate chips, blueberries or peanut butter and jam"
+              ],
+            "methods" : [
+              "Mix the flour, baking powder, caster sugar and a pinch of salt together in a large bowl. Create a well in the centre with the back of your spoon then add the eggs, melted butter and milk. Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug.",
+              "Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat. When the butter looks frothy pour in rounds of the batter, approximately 8cm wide. Make sure you don’t put the pancakes too close together as they will spread during cooking. Cook the pancakes on their first side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface. Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up.",
+              "Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings."
+              ]
+          }
+      ]
+    },
+    
+    "australia_recipes" : {
+      "list" : [
+          {
+            "id":21,
+            "name":"Chow Mein",
+            "img":"21.png",
+            "origin":"Australia",
+            "duration": "15 to 20",
+            "url" : "https://www.bestrecipes.com.au/recipes/chow-mein-recipe/v0gmvohz",
+            "ingredients": [
+                "500g beef mince",
+                "45g chicken noodle instant soup",
+                "3 cups hot water",
+                "1/2 tsp curry powder",
+                "3 tbs soy sauce",
+                "3 tbs tomato sauce",
+                "2 tbs rice uncooked",
+                "1/2 cabbage shredded",
+                "1 cup fresh French beans",
+                "2 onions sliced",
+                "1 carrot diced",
+                "1 pinch salt and pepper to taste"
+              ],
+            "methods" : [
+              "Brown the mince in a large pan.",
+              "Add water and soup, and bring to the boil.",
+              "Add all other ingredients and simmer until vegetables are tender."
+              ]
+          },
+          {
+            "id":22,
+            "name":"Satay Chicken",
+            "img":"22.jpg",
+            "origin":"Australia",
+            "duration": "20 to 30",
+            "url" : "https://www.bestrecipes.com.au/recipes/satay-chicken-recipe-2/qghxutqi",
+            "ingredients": [
+                "1 onion diced",
+                "1 garlic clove crushed",
+                "1 kg (fillets) chicken thighs sliced",
+                "1 tbs soy sauce",
+                "2 tsp curry powder",
+                "3 tbs peanut butter",
+                "2 tsp Worcestershire sauce",
+                "3 tsp sugar",
+                "2 tbs chilli sauce",
+                "2 cups hot water",
+                "1 capsicum optional sliced",
+                "1 splash oil for frying"
+              ],
+            "methods" : [
+              "Fry onion, garlic and capsicum in a little oil.",
+              "Add chicken and fry for a minute.",
+              "Add soy sauce, curry powder, peanut butter, Worcestershire sauce, sugar and chilli sauce.",
+              "Add hot water and combine.",
+              "Simmer for approximately 20 minutes until chicken is cooked."
+              ]
+          },
+          {
+            "id":23,
+            "name":"Creamy Garlic Prawns",
+            "img":"23.png",
+            "origin":"Australia",
+            "duration": "10",
+            "url" : "https://www.bestrecipes.com.au/recipes/creamy-garlic-prawns-recipe-8/exijfd1s",
+            "ingredients": [
+                "100 g butter",
+                "6 garlic cloves crushed",
+                "1 cup dry white wine",
+                "500 g green prawns deveined peeled tails intact",
+                "1 cup thickened cream",
+                "8 fresh basil leaves chopped"
+              ],
+            "methods" : [
+              "In a frying pan, melt butter and add garlic, heating until just bubbling.",
+              "Pour in dry white wine and bring to the boil.",
+              "Add prawns in a single layer and cook for a minute on each side.",
+              "Pour cream over and bring to the boil. Stir in basil.",
+              "Remove prawns with a slotted spoon and continue simmering sauce until it is reduced by one third",
+              "Return prawns to the sauce and serve on a bed of rice garnished with fresh basil."
+              ]
+          },
+          {
+            "id":24,
+            "name":"Best-Ever Curried Sausages",
+            "img":"24.png",
+            "origin":"Australia",
+            "duration": "45",
+            "url" : "https://www.bestrecipes.com.au/recipes/best-ever-curried-sausages-recipe/b11k8rhg",
+            "ingredients": [
+                "750g pork sausages",
+                "1 onion finely chopped",
+                "1 granny smith apple finely chopped",
+                "2 tsp curry powder",
+                "1 tbs plain flour",
+                "2 tsp brown sugar",
+                "1 1/2 cups beef stock (liquid)",
+                "2 tsp mango chutney",
+                "2 tsp sultanas",
+                "1 tsp apricot jam",
+                "1 tomato diced",
+                "1 tbs coconut",
+                "1 cup milk",
+                "1 tsp salt and pepper *to taste",
+                "1 knob butter"
+              ],
+            "methods" : [
+              "Gently boil the sausages for approximately 15 minutes, then peel off skin and cut in half.",
+              "In a frying pan, add a knob of butter and saute onion and apple for 10 minutes.",
+              "Add curry powder, flour and brown sugar, and brown for 5 minutes.",
+              "Add beef stock, chutney, sultanas, apricot jam and salt and pepper.",
+              "Gradually add milk, tomatoes and coconut.",
+              "Place sausages into curry mixture, simmer gently for 15 minutes, and serve with fresh beans and boiled rice."
+              ]
+          },
+          {
+            "id":25,
+            "name":"Easy Australian Damper",
+            "img":"25.jpg",
+            "origin":"Australia",
+            "duration": "30",
+            "url" : "https://www.bestrecipes.com.au/recipes/easy-australian-damper-recipe/vjqvsg8t",
+            "ingredients": [
+                "250 g self-raising flour",
+                "1/2 tsp salt",
+                "25 g unsalted butter chilled cubed",
+                "175 ml milk"
+              ],
+            "methods" : [
+              "Mix the flour with the salt in a large bowl. Add the butter and rub it into the flour with the tips of your fingers, until it resembles fine crumbs.",
+              "Stir in the milk with a round blade knife (butter knife) to make a soft, but not sticky dough.",
+              "Turn out onto a lightly floured work surface and shape into a soft, smooth ball.",
+              "Set the ball of dough onto a tray or baking sheet and flatten gently to make a round about 17cm across. Cut a deep cross in the dough and brush lightly with milk.",
+              "Bake at 190C for 30 minutes until golden.",
+              "Serve warm or at room temperature."
+              ]
+          }
+      ]
+    }
+  }
+}
