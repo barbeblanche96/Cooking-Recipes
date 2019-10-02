@@ -1,6 +1,10 @@
-# best_of_cooking
+# Cooking Recipes
 
-Best of Cooking
+A directory of the best cooking recipes around the world
+
+A List view with many cards which describe each cooking recipes
+
+Adding of favorite recipe
 
 ## Getting Started
 
