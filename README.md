@@ -6,6 +6,8 @@ A List view with many cards which describe each cooking recipes
 
 Adding of favorite recipe
 
+Link to download android app in play store : https://play.google.com/store/apps/details?id=app.barbeblanche.best_of_cooking
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
